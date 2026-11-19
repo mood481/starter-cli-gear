@@ -6,6 +6,8 @@ tmp/
 rendered/
 workspace/
 
+triar-ops/
+
 # IDEs
 .idea/
 *.sublime-workspace

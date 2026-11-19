@@ -18,6 +18,12 @@
       "integrity": "sha256:7855cecbfe12b08eb85426511b8262a94b667b5847dc2033fd93ba33064f3c65"
     },
     {
+      "type": "rule",
+      "id": "triar",
+      "path": "docs/rules/triar.md",
+      "integrity": "sha256:eb6bbb93e70fe06ff5c7204139ca7c8340eb3d07138c891e39ccb3b6afb70730"
+    },
+    {
       "type": "guide",
       "id": "go",
       "path": "docs/guides/go.md",

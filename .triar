@@ -1,0 +1,3 @@
+schema = "triar.workspace/v1"
+project = "SCLI"
+standards = "docs/manifest.json"
