@@ -1,0 +1,20 @@
+schemaVersion: 1
+id: starter-cli-gear
+name: CLI Starter
+
+modes:
+  standalone:
+    overlay:
+      path: modes/standalone/overlay
+  module:
+    overlay:
+      path: modes/module/overlay
+defaultMode: module
+
+template:
+  path: template
+  placeholders:
+    required:
+      - PROJECT_NAME
+      - PROJECT_SLUG
+      - PROJECT_DESCRIPTION

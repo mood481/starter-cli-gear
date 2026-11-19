@@ -1,0 +1,16 @@
+schemaVersion: 1
+id: starter-cli-gear
+name: CLI Starter
+
+modes:
+  standalone: {}
+  module: {}
+defaultMode: module
+
+template:
+  path: template
+  placeholders:
+    required:
+      - PROJECT_NAME
+      - PROJECT_SLUG
+      - PROJECT_DESCRIPTION
