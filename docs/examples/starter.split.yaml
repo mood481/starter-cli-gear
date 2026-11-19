@@ -1,5 +1,5 @@
 schemaVersion: 1
-id: starter-cli-gear
+id: starter-cli-go
 name: CLI Starter
 
 modes:

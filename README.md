@@ -1,4 +1,4 @@
-# @mood481/starter-cli-gear
+# @mood481/starter-cli-go
 
 Reusable starter for CLI Starter.
 
@@ -20,7 +20,7 @@ generate. Complete `starter.yaml` and the selected template sources before publi
 - `.nvmrc` and `.editorconfig`: authoring environment configuration.
 - `bin/starter-render.mjs`: generic `@mood481/starter-renderer` delegation for consumers.
 
-Starter ID: `starter-cli-gear`
+Starter ID: `starter-cli-go`
 Enabled modes: `standalone, module`
 Default mode: `module`
 Template layout: `overlay`

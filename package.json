@@ -1,5 +1,5 @@
 {
-    "name": "@mood481/starter-cli-gear",
+    "name": "@mood481/starter-cli-go",
     "version": "0.1.0",
     "private": false,
     "description": "Reusable starter for CLI Starter.",
