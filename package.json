@@ -12,6 +12,7 @@
         "template/**",
         "modes/**",
         "variants/**",
+        "modes/standalone/overlay/.gitignore",
         "modes/standalone/overlay/**",
         "modes/module/overlay/**"
     ],
@@ -30,7 +31,7 @@
     "devDependencies": {
         "@mood481/starter-contracts": "^0.5.1",
         "@mood481/starter-validator": "^0.5.1",
-        "@mood481/starter-publish-tools": "^0.1.0"
+        "@mood481/starter-publish-tools": "^0.1.1"
     },
     "publishConfig": {
         "access": "public"
